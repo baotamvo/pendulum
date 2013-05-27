@@ -1,0 +1,22 @@
+<?php
+return array(
+    'boolean'=> 'CBooleanValidator',
+    'captcha'=> 'CCaptchaValidator',
+    'compare'=> 'CCompareValidator',
+    'date'=> 'CDateValidator',
+    'default'=> 'CDefaultValueValidator',
+    'email'=> 'CEmailValidator',
+    'exist'=> 'CExistValidator',
+    'file'=> 'CFileValidator',
+    'filter'=> 'CFilterValidator',
+    'in'=> 'CRangeValidator',
+    'length'=> 'CStringValidator',
+    'numerical'=> 'CNumberValidator',
+    'match'=> 'CRegularExpressionValidator',
+    'required'=> 'CRequiredValidator',
+    'safe'=> 'CSafeValidator',
+    'type'=> 'CTypeValidator',
+    'unique'=> 'CUniqueValidator',
+    'unsafe'=> 'CUnsafeValidator',
+    'url'=> 'CUrlValidator',
+);
