@@ -6,7 +6,7 @@ Pendulum
 * 2-step view support with layout assembling in controller
 * Transactional operations wrapped in services that can be exposed as web services
 * Aspect oriented programming with yii's CBehavior
-* JSON service response mapper (XML comming soon)
+* JSON object mapper (XML comming soon)
 
 
 
