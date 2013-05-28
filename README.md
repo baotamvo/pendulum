@@ -1,6 +1,6 @@
 Pendulum
 ========
-* Configuration over Convention Framework based on [Yii Framework](http://www.yiiframework.com) 
+* Configuration over Convention Framework based on [Yii](http://www.yiiframework.com) 
 * Load an object based on virtual name space regradless of which directory your file is, 
 you just need to declare the object in the cofiguration
 * Dependency Injection through factory functions
